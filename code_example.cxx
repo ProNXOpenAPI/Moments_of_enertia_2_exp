@@ -12,7 +12,6 @@
 #include <uf_disp.h>
 
 #include <ug_session.hxx>
-//#include <ug_part.hxx> // <-----------------  #incude's bug
 
 #include <sstream>
 
